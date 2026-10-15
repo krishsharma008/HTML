@@ -50,7 +50,7 @@ Tools: Visual Studio Code, Git & GitHub
 🚀 How to Run Locally
 1.Clone the repository:
 git clone [https://github.com/krishsharma008/HTML.git](https://github.com/krishsharma008/HTML.git)
-👨‍💻 Author
+##👨‍💻 Author
 Krish Sharma
 
 B.Tech Computer Science and Engineering Student
